@@ -1,55 +1,80 @@
-# Hi there! 👋
+### Hi 👋
 
-I'm Digbijay Nayak, a passionate **Frontend Web Developer** from India.
+My name is Digbijay Nayak and I come from a very special country, [India](https://en.wikipedia.org/wiki/India). I am currently living in Hyderabad, India. I come from a then remote village & I started using computers when I was 18 and since then have always been in love with what I can make it do by feeding 1s and 0s.
 
-🔭 I’m currently working on Data Annotation Project.
+<details>
+  <summary>Click to learn more about me!</summary>
+  
+  I write technical debts (well any of us who have built softwares have written _mostly_ technical debt :)) in the form of code to solve business problems. Any lines of code we write are technical debts no matter what; its all about managing the debts to successfully engineer the solution for the business.
 
-🌱 I’m currently learning three.js, webgl, Nodejs and DSA.
+I am a software engineer, programmer and tech leader with more than a three years of experience working as a thought leader in teams and companies of all sizes, from 20-person startup to bigger companies with hundreds of engineers. I used computer for the first time at the age of 18-19 and was naturally drawn to it as it was a new thing to me and have invested my time into learning more about it. Over the course of my professional career, I have also provided consulting, architecture reviews and guidelines to startups across the globe. I am passionate about architecture having vast experience with service-oriented architectures, domain-driven design and microservices. I am also passionate about distributed systems, language design, operating systems and software/web security and have used my experience and passions in appropriate places on many of these topics at the companies I have been with.
 
-💬 Ask me about web development,best coding practices, JavaScript, CSS, React,NodeJS.
+I am also a huge believer in open-source ecosystem, always looking to contribute in any capability. I myself built and maintain few libraries and tools and are available on my github at https://github.com/digbijaynayak.
+  
+I firmly believe that DevOps culture is a must for success of any team and engineering organization regardless of size (1-N where N is any natural number) and it only becomes more and more crucial as the team size and number of systems interacting increases (as in microservices) and have helped various companies during my career embrace these ideas.
 
-📫 How to reach me: digbijaynayak522@gmail.com.
+Independent decision-making, trust, open information, curiosity, selflessness and courage are some of the elements I really value in individuals, teams and companies and believe that these traits can be miracles for individual and teams for career development and growth.
 
-😄 Pronouns: He/Him/His
+If you think I could be helpful in any ways such as consulting, adviser, leader or even anything in general, feel free to connect and message me.
+</details>
 
-![](https://komarev.com/ghpvc/?username=DigbijayNayak)
+#### &#127760; Social
 
-## Skills
+[![Resume](https://img.shields.io/badge/resume-Digbijay-blue)](https://digbijaynayak.github.io/resume/)
+[![GitHub](https://img.shields.io/github/followers/DigbijayNayak?label=follow&style=social)](https://github.com/DigbijayNayak) 
+[![Twitter](https://img.shields.io/twitter/follow/DigbijayNayak?style=social)](https://twitter.com/@DigbijayNayak4)
+[![Linkedin](https://img.shields.io/badge/-DigbijayNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digbijaynayak/)](https://www.linkedin.com/in/digbijaynayak/) 
 
-**Programming Languages:**
+#### &#x270d; Writing
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-F7DF1E?style=flat-square&logo=SQL&logoColor=white)
+- [Personal Blog](https://www.iamnayak.com)
+- [Medium Blog](https://medium.com/@iamnayak)
 
-**Frameworks:**
+#### &#128295; Technologies & Tools
 
-![Angular](https://img.shields.io/badge/-Angular-0F0F11?style=flat-square&logo=Angular)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) 
 
-**Tools:**
+![HTML5](https://img.shields.io/badge/Markup-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white&color=2bbc8a) 
+![CSS3](https://img.shields.io/badge/Style-CSS3-%23E44D27?style=flat&logo=css3&logoColor=white&color=2bbc8a) 
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a) 
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
+![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a) 
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a) 
+![ExpressJS](https://img.shields.io/badge/JS-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) 
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=cup&logoColor=white&color=2bbc8a) 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
 
-## GitHub Stats
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) 
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
+![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) 
+![Kafka](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a) 
+![ElasticSearch](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a) 
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) 
+![GraphQL](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a) 
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) 
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a) 
+![GCP](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a) 
+![Travis-CI](https://img.shields.io/badge/DevOps-Travis-informational?style=flat&logo=travis&logoColor=white&color=2bbc8a) 
+![CircleCI](https://img.shields.io/badge/DevOps-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a) 
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DigbijayNayak&theme=darkhub)
+#### &#x1f4c8; Github Stats
 
-![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DigbijayNayak&theme=chartreuse-dark&layout=compact&hide=Jupyter%20Notebook)
+<a href="https://github.com/DigbijayNayak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigbijayNayak&hide=c,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-![chart](https://github-readme-stats.vercel.app/api?username=DigbijayNayak&theme=chartreuse-dark&show_icons=true&hide=contribs&include_all_commits=true&count_private=true)
 
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=DigbijayNayak&theme=merko)
+<a href="https://github.com/DigbijayNayak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DigbijayNayak&show_icons=true&cache_seconds=1800&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Digbijay's GitHub Stats" />
+</a>
 
-![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DigbijayNayak&theme=solarized_dark)
+#### &#128155; Interests
 
-## Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/DigbijayNayak/) | [Twitter](https://twitter.com/@DigbijayNayak4) | [Personal Blog](https://www.techsavvyof21stcentury.com)
-
-Feel free to explore my repositories and don't hesitate to reach out! 😊
+[&#127951;](https://en.wikipedia.org/wiki/Cricket)&emsp; I love to play and watch cricket.  
+[&#127909;](https://en.wikipedia.org/wiki/Documentary_film)&emsp; I love watching documentaries, thrillers and horrors  
+[&#127918;](https://www.ea.com/games/fifa/fifa-21/features)&emsp; I do not play a lot of video games anymore  
+[&#127928;](https://en.wikipedia.org/wiki/Drawing)&emsp; I have been learning drawing and painting in my free time (~1-2hours/week in best weeks); its not been easy due to lack of time but I've been pursuing hard on this recently  
