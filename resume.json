@@ -1,0 +1,205 @@
+{
+  "basics": {
+    "name": "Digbijay Nayak",
+    "label": "Software Engineer, Technology Leader",
+    "picture": "https://lh3.googleusercontent.com/d/1B2pIhJ5Gb1CBv1vXddU-y6T77k0rX3GL",
+    "email": "digbijaynayak522@gmail.com",
+    "phone": "966-878-2702",
+    "website": "http://iamnayak.com",
+    "summary": "Tech enthusiast, avid reader, life-long learner and thought leader for product tech strategy throughout the career. Also, an open-source enthusiast and part-time contributor in various OSS ecosystems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hyderabad",
+      "countryCode": "IN",
+      "region": "TG"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "DigbijayNayak",
+        "url": ""
+      },
+      {
+        "network": "StackOverflow",
+        "username": "19541422/digbijay-nayak",
+        "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "username": "digbijaynayak",
+        "url": "https://www.linkedin.com/in/digbijaynayak/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "People Tech Group (Eazpro)",
+      "position": "Software Engineer",
+      "website": "https://peopletech.com",
+      "startDate": "2024-03-11",
+      "summary": "",
+      "highlights": [
+        "Designed user-friendly interfaces for AI-driven maintenance solutions in ReactJS.",
+        "Developed and deployed a web application using ReactJS and Node.js.",
+        "Integrated data visualizations using Highcharts and maintenance schedules with Full Calendar.",
+        "Modernized digital infrastructure for SEIU to streamline communication.",
+        "Leveraged AWS services for business logic implementation and issue resolution.",
+        "Led the technical implementation for Automated Validation component in core application",
+        "Implemented industry standard security practices on core application",
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, PostgreSQL, AWS, Kubernetes, React, Github Actions, Terraform"
+      ]
+    },
+    {
+      "company": "People Tech Group",
+      "position": "Junior Software Engineer",
+      "website": "https://peopletech.com",
+      "startDate": "2022-03-11",
+      "endDate": "2024-04-11",
+      "summary": "",
+      "highlights": [
+        "Built tools for recruitment, media production, and data annotation using React.js and TypeScript.",
+        "Developed features like dynamic UIs, API integration, responsive design, and role-based access.",
+        "Worked with VP, directors and tribe leaders and product team on strategic growth and platform maturity",
+        "Worked with various teams for architectural foundations and cloud native SOA converting majority of 20 years old monolity to 20+ microservices",
+        "Reviewed various architectural proposals on high-level system design and code implementations",
+        "Provided leadership guidance for smart and engage initiatives",
+        "Managed cloud platform of Zego",
+        "Engaged in technical dilligence in M&A efforts",
+        "Worked with security group and provide code reviews and perform internal pentests",
+        "Designed and developed micro-frontend architecture and template and help teams adopt it",
+        "Tech highlights: Javascript, Typescript, Node.js, .NET Core, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, React, React Native, C, C++"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indira Gandhi Institute of Technology, Odisha",
+      "area": "Computer Application",
+      "studyType": "Master",
+      "startDate": "2018-08-09",
+      "endDate": "2021-07-09",
+      "gpa": "8.64 - A in computer related courses",
+      "courses": [
+        "Computer Graphics",
+        "Compiler Design",
+        "Computer Systems Architecture",
+        "Principles of Programming Languages"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "DevOps",
+      "level": "Expert",
+      "keywords": [
+        "Amazon Web Services",
+        "Google Cloud",
+        "Docker",
+        "Heroku",
+        "Micro-services",
+        "Puppet",
+        "Linux",
+        "Windows",
+        "NoSQL",
+        "RDBMS",
+        "Kubernetes",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Backend Engineering",
+      "level": "Expert",
+      "keywords": [
+        "Javascript",
+        "Typescript",
+        "REST",
+        "Message Queues",
+        "Node.js",
+        "Python",
+        "Platform Security",
+        "NoSQL",
+        "RDBMS",
+        "MEAN",
+        "MERN",
+        "Alexa",
+        "Google Actions",
+        "Kafka",
+        "MongoDB",
+        "Authn, Authz, OAuth2, OpenID Connect"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "level": "Expert",
+      "keywords": [
+        "Domain Driven Design",
+        "Microservices",
+        "Service-oriented architecture",
+        "Enterprise Integration",
+        "Low Latency Systems",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Frontend Engineering",
+      "level": "Expert",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "AngularJS",
+        "D3.js",
+        "Highcharts",
+        "Bootstrap",
+        "React",
+        "React Native",
+        "Micro-frontend"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Good"
+    },
+    {
+      "language": "Odia",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Security",
+      "keywords": [
+        "Exploit development",
+        "Web security"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "keywords": [
+        "Statistics & Probability",
+        "Calculus",
+        "Algebra",
+        "Numerical Methods"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Cricket",
+        "Badminton",
+        "Juggling",
+        "Board Games"
+      ]
+    }
+  ],
+  "references": []
+}

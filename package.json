@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume of techgaun <samar@techgaun.com>",
+  "main": "index.js",
+  "repository": "git@github.com:techgaun/resume.git",
+  "author": "techgaun <coolsamar207@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.13.2",
+    "resume": "file:",
+    "resume-cli": "^3.0.4"
+  },
+  "scripts": {
+    "html": "npx resume export resume.html -t elegant -f .html",
+    "pdf": "./node_modules/.bin/resume export resume.pdf -t elegant -f .pdf",
+    "serve": "./node_modules/.bin/resume serve --theme elegant"
+  }
+}
